@@ -1,4 +1,5 @@
 #!/bin/bash
+# GoogleIP = 172.217.169.78
 ping -c1 172.217.169.78 >/dev/null
 echo "Status,Pinging to,Time" >>log.csv
 while true; do
