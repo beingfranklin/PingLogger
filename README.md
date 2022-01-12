@@ -5,7 +5,7 @@ Shell script to ping an IP and log the results in a CSV file.
 
 ## How to run
 
-Its an interactive script which requires root access. 
+~~Its an interactive script which requires root access.~~
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/beingfranklin/PingLogger/main/ping.sh)"
