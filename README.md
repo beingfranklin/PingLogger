@@ -16,7 +16,9 @@ The `log.csv` will be created in the current folder.
 
 You can get it up and running locally by doing the following. Locate the folder which contains the script and Run the following command in terminal in that folder.
 
-`sh script.sh`
+```bash
+sh script.sh
+```
 
 The `log.csv` will be created in the current folder.
 
